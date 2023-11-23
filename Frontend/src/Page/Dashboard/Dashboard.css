@@ -1,0 +1,25 @@
+.line-chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.bottom-chart {
+    display: flex;
+    border: 5px solid #f6f6f6;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.doughnutChart {
+    left: 0;
+}
+
+.progress-bar-chart {
+    position: absolute;
+    bottom: 10em;
+    margin-left: 28em;
+    width: 150px;
+}

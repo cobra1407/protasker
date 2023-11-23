@@ -1,0 +1,26 @@
+.title
+{
+    color: orange;
+    text-align: center;
+    padding: 20px;
+}
+
+.content
+{
+    display: flex;
+    align-items: center;
+    color: grey;
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: orange;
+}
+
+.icon svg {
+    font-size: 100px;
+}

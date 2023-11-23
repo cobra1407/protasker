@@ -1,0 +1,26 @@
+.search-input {
+    width: 250px;
+    height: 35px;
+    padding: 10px;
+    border: 1px solid #535353;
+    border-radius: 20px;
+    box-sizing: border-box;
+    text-indent: 30px;
+}
+
+.search-icon
+{
+    position: relative;
+    left: 2em;
+    color: #535353;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .search-input {
+        width: 150px;
+        border-radius: 20px;
+        box-sizing: border-box;
+        text-indent: 30px;
+    }
+}

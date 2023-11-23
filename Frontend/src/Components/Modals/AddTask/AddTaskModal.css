@@ -1,0 +1,14 @@
+.save-button
+{
+    background: #2d485b !important;
+}
+
+button.save-button:hover
+{
+    background: #405F75;
+}
+
+.title
+{
+    color: orange;
+}

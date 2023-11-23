@@ -1,0 +1,21 @@
+.no-tasks {
+    padding-top: 15em;
+    text-align: center;
+    color: #777777;
+}
+
+.no-tasks-icon
+{
+    font-size: 48px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+.task-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

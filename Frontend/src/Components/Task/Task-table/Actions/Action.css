@@ -1,0 +1,23 @@
+.edit
+{
+    padding-right: 6px;
+    color: orange;
+}
+
+.delete
+{
+    padding-left: 6px;
+    color: red;
+}
+
+.edit:hover
+{
+    padding-right: 6px;
+    color: darkorange;
+}
+
+.delete:hover
+{
+    padding-left: 6px;
+    color: darkred;
+}

@@ -1,0 +1,14 @@
+/* Variante en cours */
+.bg-info {
+    background-color: #5d62b4 !important;
+}
+
+/* Variante bloqué */
+.bg-success {
+    background-color: #f4706f !important;
+}
+
+/* Variante terminé */
+.bg-warning {
+    background-color: #28c3bd !important;
+}

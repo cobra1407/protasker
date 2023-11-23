@@ -1,0 +1,16 @@
+.add-button
+{
+    width: 160px;
+    height: 30px;
+    background: #2f4858;
+    border:none;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.add-button:hover
+{
+    color: orange;
+    background: #324E5F;
+}

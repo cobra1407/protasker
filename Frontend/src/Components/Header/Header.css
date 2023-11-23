@@ -1,0 +1,63 @@
+.container-head{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    padding: 10px;
+    align-items: center;
+}
+
+.add-button
+{
+    position: absolute;
+    left: 2.5em;
+}
+
+.excel-icon
+{
+    color: green;
+    font-size: 25px;
+}
+
+.filter-icon
+{
+    font-size: 25px;
+}
+
+
+.filter-dropdown {
+    position: absolute;
+    width: 20em;
+    right: 1em;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1;
+}
+
+.filter-dropdown select {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.select-title
+{
+    color: orange;
+    font-size: 18px;
+}
+
+.reset-button
+{
+    background: #2f4858 !important;
+}
+
+.reset-button:hover
+{
+    background: #324E5F !important;
+}

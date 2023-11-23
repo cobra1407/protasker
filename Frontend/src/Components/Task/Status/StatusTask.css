@@ -1,0 +1,40 @@
+.in-progress {
+    background: #d6d8ec;
+    border: 2px solid #afb4f1;
+    color: #9199f6;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 100px;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.blocked
+{
+    background: #fcdcdb;
+    border: 2px solid #f8bbb9;
+    color: #e08986;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 100px;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.done
+{
+    background: #c9f0ef;
+    border: 2px solid #a4e4e2;
+    color: #7ad2cf;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 100px;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+}
