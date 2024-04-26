@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/D7ci/HPSw8ciWIxn0Wp3yOVub/ivVe/1Pu6hYpgKyVrDi7TiD7K+tKXnEVuTI3nLMVQcomAoyEKN/sEGHMYw==",
+  "dgSpecHash": "+Ld2hnFomGLWpKinN//ECnr2iq9ZVCqglLN46LiXgeiZisJkzarN72d7s2wm6H6nYPd9HP6xy+EDM9sHSGvXvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\BU\\BU.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\BU\\BU.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thoma\\.nuget\\packages\\epplus\\7.0.1\\epplus.7.0.1.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BU", "BU\BU.csproj", "{779E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5266FCB9-120D-4055-923C-BFF30A26063F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unitests", "Unitests\Unitests.csproj", "{F86C1EA3-8261-4259-B886-C01C8F64CDFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5266FCB9-120D-4055-923C-BFF30A26063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5266FCB9-120D-4055-923C-BFF30A26063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5266FCB9-120D-4055-923C-BFF30A26063F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86C1EA3-8261-4259-B886-C01C8F64CDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86C1EA3-8261-4259-B886-C01C8F64CDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86C1EA3-8261-4259-B886-C01C8F64CDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86C1EA3-8261-4259-B886-C01C8F64CDFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

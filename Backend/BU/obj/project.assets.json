@@ -5990,27 +5990,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\BU\\BU.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\BU\\BU.csproj",
       "projectName": "BU",
-      "projectPath": "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\BU\\BU.csproj",
+      "projectPath": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\BU\\BU.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\BU\\obj\\",
+      "outputPath": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\BU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\thoma\\Desktop\\protasker\\Backend\\DAL\\DAL.csproj"
+            "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\DAL\\DAL.csproj"
             }
           }
         }
@@ -6050,7 +6052,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
       }
     }
   }
