@@ -178,3 +178,6 @@ C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\obj\Debug\net8.0\refint\
 C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\obj\Debug\net8.0\Unitests.pdb
 C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\obj\Debug\net8.0\Unitests.genruntimeconfig.cache
 C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\obj\Debug\net8.0\ref\Unitests.dll
+C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\bin\Debug\net8.0\MockQueryable.Core.dll
+C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\bin\Debug\net8.0\MockQueryable.EntityFrameworkCore.dll
+C:\Users\thoma\RiderProjects\protasker\Backend\Unitests\bin\Debug\net8.0\MockQueryable.Moq.dll

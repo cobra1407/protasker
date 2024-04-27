@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "08VQlAOhIkab5dPE5x0wLfQT9cwLW/p3eFTA4mnm+7D80rtKKi+Azudv0in8f0fki4HD2Hq+W3LgnedQ5IT3Qw==",
+  "dgSpecHash": "3nFrsLKFlotCpB143unMXfDjdjj+M+Rg84/jAIXCPEVXhUtdcKyVdRy3WjG/i1ejmNg41rjGBjI1w6Sf6dVabA==",
   "success": true,
   "projectFilePath": "C:\\Users\\thoma\\RiderProjects\\protasker\\Backend\\Unitests\\Unitests.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,9 @@
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\mockqueryable.core\\7.0.1\\mockqueryable.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\mockqueryable.entityframeworkcore\\7.0.1\\mockqueryable.entityframeworkcore.7.0.1.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\mockqueryable.moq\\7.0.1\\mockqueryable.moq.7.0.1.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\mysql.data\\8.1.0\\mysql.data.8.1.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\mysql.entityframeworkcore\\7.0.5\\mysql.entityframeworkcore.7.0.5.nupkg.sha512",
